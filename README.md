@@ -16,6 +16,8 @@
   <img align="center" alt="Babi-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Babi-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Babi-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  
+  <img align="right" alt="Babi-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/785534993090740245/921577622360719360/Webp.net-gifmaker.gif?width=573&height=573">
 </div>
   
  ##
